@@ -1,5 +1,5 @@
 # Traffic Signs Recognition
-
+<img width="607" alt="Screen Shot 1443-04-26 at 2 30 36 PM" src="https://user-images.githubusercontent.com/90555069/144227115-bc8e666a-88dc-480c-b2df-e9d4e031ee10.png">
 
 # Abstract
 In the world of Artificial Intelligence and advancement in technologies, many researchers and big companiesare working on autonomous vehicles and self-driving cars. So, for achieving accuracy in this technology, the vehicles should be able to interpret traffic signs and make decisions accordingly.
