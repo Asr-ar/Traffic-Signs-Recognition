@@ -1,4 +1,4 @@
-# Traffic Signs Recognition
+# Traffic Sign Recognition
 <img width="607" alt="Screen Shot 1443-04-26 at 2 30 36 PM" src="https://user-images.githubusercontent.com/90555069/144227115-bc8e666a-88dc-480c-b2df-e9d4e031ee10.png">
 
 # Abstract
