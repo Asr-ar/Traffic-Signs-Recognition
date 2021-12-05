@@ -1,4 +1,4 @@
-# Traffic Signs Recognition
+# Traffic Sign Recognition
 
 Considering the types of traffic signs, we found that there is a huge difference in the preparation of the different classes, as you can see below: 
 
