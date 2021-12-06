@@ -15,34 +15,34 @@ It is further classified into 43 different classes.
 
 
 
+
 ## Design and Algorithms
 
-**Extraction, Formatting & Type Conversion**
+ **Extraction, Formatting & Type Conversion**
 
- - All of the data was loaded from sorted folders as images (Pixels) and needs extraction, formatting, and type conversion.
-
-
+   - All of the data was loaded from sorted folders as images (Pixels) and needs extraction, formatting, and type conversion.
 
 
-**Normalization**
+ **Normalization**
 
-- Scaling of training data (Divide by 255).
-- Labels Encoding, for all the 43 categories. 
+  - Scaling of training data (Divide by 255).
+  - Labels Encoding, for all the 43 categories. 
 
-**Spliting The Data to (Train, Valdation and Test) datasets**
+ **Spliting The Data to (Train, Valdation and Test) datasets**
 
-- Splitting the Data with shuffling , to make sure our model with capture all the patterns.
+  - Splitting the Data with shuffling , to make sure our model with capture all the patterns.
 
-**Reshape**
-- Reshape the image size to be in 2d array, to applying baseline model(Logistic Regression)
+ **Reshape**
+  - Reshape the image size to be in 2d array, to applying baseline model(Logistic Regression)
 
-**Hyperprameter Setting over Deep learning model**
+ **Hyperprameter Setting over Deep learning model**
 
-- Set the Dropout to handle any Overfitting.
-- Set the Classes Weight to handling the class Imbalance struggle 
-- Set Activation Function to be "Relu" for the hidden layer and "Softmax" for the output layer.
+  - Set the Dropout to handle any Overfitting.
+  - Set the Classes Weight to handling the class Imbalance struggle 
+  - Set Activation Function to be "Relu" for the hidden layer and "Softmax" for the output layer.
 
 .
+
 
 ## Tools
 - Software Platform:
