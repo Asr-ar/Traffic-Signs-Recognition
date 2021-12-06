@@ -11,7 +11,7 @@ Given a various traffic signs along with images dataset , we are challenged to c
 
 # Data
 
-- For this project, we are using the public dataset available at Kaggle: [Traffic Signs Dataset](https://www.kaggle.com/shanmukh05/traffic-sign-cropped)
+- For this project, we are using the public dataset available at Kaggle: [Traffic Signs Dataset](https://www.kaggle.com/meowmeowmeowmeowmeow/gtsrb-german-traffic-sign)
 
 - The dataset contains around 50,000 images of different traffic signs. 
 It is further classified into 43 different classes.
